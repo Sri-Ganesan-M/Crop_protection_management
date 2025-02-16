@@ -28,7 +28,7 @@ This project integrates **Crop Prediction & Management** with an **AI-powered An
 ## 📥 Installation & Setup
 ### 🔹 Clone the Repository
 ```sh
-git clone https://github.com/your-repo/crop-animal-protection.git
+git clone https://github.com/your-repo/Crop_protection_management.git
 ```
 ### 🔹 Install Dependencies
 ```sh
@@ -63,6 +63,6 @@ python animal_detection.py
 This project is licensed under the **MIT License**.
 
 ## 📬 Contact
-📧 **Email:** support@yourdomain.com  
-🔗 **GitHub:** [Your Repository](https://github.com/your-repo/crop-animal-protection)
+📧 **Email:** abhi11.sbsm@gmail.com  
+🔗 **GitHub:** [Crop_Protection_Management](https://github.com/Dracerxy/Crop_protection_Management)
 
