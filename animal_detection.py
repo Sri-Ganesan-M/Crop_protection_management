@@ -10,15 +10,15 @@ import tensorflow as tf
 # Initialize Firebase
 cred = credentials.Certificate(r"/Users/sriganesan/DATA/trap_project/TARP_CROP_PREDICTION/smart-crop-management-app-firebase-adminsdk-7n77g-ebb8f0fc25.json")
 firebase_admin.initialize_app(cred, {
-    'databaseURL': 'https://smart-crop-management-app-default-rtdb.firebaseio.com/'
+    'databaseURL': ''
 })
 
 # Load the model
-model_path = "/Users/sriganesan/Downloads/converted_keras/keras_model.h5"  # Path to the new Keras model
+model_path = ""  # Path to the new Keras model
 model = load_model(model_path, compile=False)
 
 # Load the labels
-with open("/Users/sriganesan/Downloads/converted_keras/labels.txt", "r") as f:
+with open("", "r") as f:
     class_names = f.readlines()
 
 # Define constants
