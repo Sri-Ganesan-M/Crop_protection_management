@@ -8,7 +8,7 @@ from tensorflow.keras.models import load_model
 import tensorflow as tf
 
 # Initialize Firebase
-cred = credentials.Certificate(r"/Users/sriganesan/DATA/trap_project/TARP_CROP_PREDICTION/smart-crop-management-app-firebase-adminsdk-7n77g-ebb8f0fc25.json")
+cred = credentials.Certificate(r"")
 firebase_admin.initialize_app(cred, {
     'databaseURL': ''
 })
