@@ -1,4 +1,4 @@
-# 🌾 Crop Prediction & Animal Protection System
+# 🌾 Crop Prediction & Protection System
 
 ## 📝 Introduction
 This project integrates **Crop Prediction & Management** with an **AI-powered Animal Protection System** to assist farmers in optimizing their crop yield while preventing animal intrusions.
@@ -12,7 +12,7 @@ This project integrates **Crop Prediction & Management** with an **AI-powered An
 - **Threshold-Based Analysis:** Compares live data with pre-defined crop thresholds to provide feedback (-1, 0, +1).
 - **Firebase Integration:** Stores crop recommendations and advice.
 
-### 🦌 Animal Protection System
+### 🦌 Crop Protection from Animals System
 - **AI-based Animal Detection:** Identifies elephants and peacocks using a deep learning model trained on the **TARP dataset**.
 - **Live Camera Feed Analysis:** Uses **OpenCV** and **TensorFlow/PyTorch** for real-time object detection.
 - **Push Notifications:** Sends alerts when an animal is detected.
@@ -55,14 +55,19 @@ python animal_detection.py
 3. The system recommends the best crops and stores results in **Firebase**.
 
 ### 🦌 Animal Protection
-1. The system processes live video feed using a deep learning model.
+1. The system processes live video feeds using a deep learning model.
 2. If an animal is detected, an alert is sent via push notification.
 3. Detection logs are stored in **Firebase**.
 
-## 📜 License
-This project is licensed under the **MIT License**.
+##Snippets
+![image](https://github.com/user-attachments/assets/dc0e0bcf-8694-456a-9a11-9b89ec40d4fd)
+![image](https://github.com/user-attachments/assets/6430aa70-c3e3-479e-bbbd-ace5ac63106a)
+
+![image](https://github.com/user-attachments/assets/05f100fe-db4b-4e3c-8686-81d21ea74e97)
+
+
 
 ## 📬 Contact
-📧 **Email:** support@yourdomain.com  
-🔗 **GitHub:** [Your Repository](https://github.com/your-repo/crop-animal-protection)
+📧 **Email:** abhi11.sbsm@gmail.com  or sriganesan06@gmail.com 
+🔗 **GitHub:** [Crop_protection_management](https://github.com/Dracerxy/Crop_protection_management)
 
