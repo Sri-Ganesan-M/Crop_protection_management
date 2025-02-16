@@ -30,7 +30,7 @@ This project integrates **Crop Prediction & Management** with an **AI-powered An
 ## 📥 Installation & Setup
 ### 🔹 Clone the Repository
 ```sh
-git clone https://github.com/your-repo/crop-animal-protection.git
+git clone https://github.com/your-repo/Crop_protection_management.git
 ```
 ### 🔹 Install Dependencies
 ```sh
