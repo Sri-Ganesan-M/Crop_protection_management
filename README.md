@@ -1,4 +1,6 @@
 # 🌾 Crop Prediction & Protection System
+## Authors: Abhishek Singh & Sri Ganesan M
+## Vellore Institute of Technology, Chennai
 
 ## 📝 Introduction
 This project integrates **Crop Prediction & Management** with an **AI-powered Animal Protection System** to assist farmers in optimizing their crop yield while preventing animal intrusions.
