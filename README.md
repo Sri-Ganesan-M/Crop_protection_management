@@ -73,3 +73,4 @@ python animal_detection.py
 📧 **Email:** abhi11.sbsm@gmail.com  or sriganesan06@gmail.com 
 🔗 **GitHub:** [Crop_protection_management](https://github.com/Dracerxy/Crop_protection_management)
 
+
